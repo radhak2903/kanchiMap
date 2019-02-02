@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kanchi Temples</string>
+    <string name="title_activity_maps">Kanchi Map</string>
+    <string name="button">Button</string>
+    <string name="visit_temples">VISIT TEMPLES</string>
+</resources>
